@@ -1,0 +1,9 @@
+{
+  "name": "Indra Idiomas",
+  "description": "Escola digital de idiomas com foco em desenvolvimento linguístico e humano.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
