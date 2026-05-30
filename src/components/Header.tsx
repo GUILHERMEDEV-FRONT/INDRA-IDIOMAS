@@ -79,13 +79,13 @@ export default function Header() {
           {/* Contact CTA */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://wa.me/5521999999999"
+              href="https://wa.me/5531975418023"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-1.5 text-brand-charcoal hover:text-brand-wine-light font-medium text-sm transition-colors"
             >
               <Phone className="w-4 h-4 text-brand-peach" />
-              <span className="text-xs font-mono font-medium">(21) 98859-9130</span>
+              <span className="text-xs font-mono font-medium">(31) 975418023</span>
             </a>
             
             <a
@@ -132,13 +132,13 @@ export default function Header() {
               ))}
               <div className="pt-4 border-t border-brand-cream-dark/80 flex flex-col gap-3 px-3">
                 <a
-                  href="https://wa.me/5521999999999"
+                  href="https://wa.me/5531975418023"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 text-brand-charcoal font-medium text-sm py-1"
                 >
                   <Phone className="w-4 h-4 text-brand-peach" />
-                  <span className="font-mono text-xs">(21) 98859-9130</span>
+                  <span className="font-mono text-xs">(31) 975418023</span>
                 </a>
                 
                 <a
